@@ -18,6 +18,7 @@ public class ModMenuTypes {
     public static final RegistryObject<MenuType<ChipsStandScreen.Menu>> CHIPS_STAND_MENU =
             register(ChipsStandScreen.Menu::new, "chips_stand_menu");
 
+
     private static <T extends AbstractContainerMenu> RegistryObject<MenuType<T>> register(
             IContainerFactory<T> factory, @NotNull String name
     ) {

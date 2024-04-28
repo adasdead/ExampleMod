@@ -35,7 +35,7 @@ public class AwakenedPickaxeItem extends PickaxeItem {
     }
 
     public AwakenedPickaxeItem() {
-        super(Tiers.NETHERITE, 2, 3.0f, PROPERTIES);
+        super(Tiers.NETHERITE, 2, 3.5f, PROPERTIES);
     }
 
     @Override

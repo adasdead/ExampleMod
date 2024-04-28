@@ -13,4 +13,6 @@ public class ModEntityTypes {
 
     public static RegistryObject<EntityType<NokiaBoxEntity>> NOKIA_BOX
             = ENTITY_TYPES.register("nokia_box", NokiaBoxEntity::newEntityTypeFabric);
+
+
 }

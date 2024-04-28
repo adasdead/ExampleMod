@@ -9,7 +9,7 @@ public abstract class AbstractMetalBlock extends Block {
         super(Properties.of()
                 .instrument(NoteBlockInstrument.BASEDRUM)
                 .requiresCorrectToolForDrops()
-                .strength(3.0F, 3.0F)
+                .strength(2.0F, 2.0F)
                 .sound(SoundType.METAL)
                 .noOcclusion());
     }

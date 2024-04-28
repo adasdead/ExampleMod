@@ -22,5 +22,13 @@
         "stream": true
       }
     ]
+  },
+  "omagad_poco": {
+    "sounds": [
+      {
+        "name": "strange_mod:omagad_poco",
+        "stream": true
+      }
+    ]
   }
 }

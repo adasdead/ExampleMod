@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "GNG",
+    "G#G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "B": {
+      "item": "minecraft:bell"
+    },
+    "G": {
+      "item": "minecraft:black_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_chestplate"
+    }
+  },
+  "result": {
+    "item": "strange_mod:maid_chestplate",
+    "count": 1
+  }
+}

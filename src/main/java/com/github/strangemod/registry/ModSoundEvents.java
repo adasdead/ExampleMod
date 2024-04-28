@@ -13,6 +13,7 @@ public class ModSoundEvents {
     public static final RegistryObject<SoundEvent> NOKIA_BOX_RINGTONE = register("nokia_box_ringtone");
     public static final RegistryObject<SoundEvent> FLY_Y_Y_Y_Y_Y = register("fly_y_y_y_y_y");
     public static final RegistryObject<SoundEvent> STAR_FELL = register("star_fell");
+    public static final RegistryObject<SoundEvent> OMAGAD_POCO = register("omagad_poco");
 
     private static RegistryObject<SoundEvent> register(String id) {
         return SOUND_EVENTS.register(id, () -> SoundEvent.createVariableRangeEvent(StrangeMod.location(id)));

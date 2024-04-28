@@ -11,11 +11,6 @@ public class CoalCoke extends Item {
     private static final Item.Properties PROPERTIES = new Item.Properties()
             .stacksTo(16);
 
-    public CoalCoke(Properties p_41383_) {
-        super(p_41383_);
-
-    }
-
     public CoalCoke() {
         super(new Properties());
 

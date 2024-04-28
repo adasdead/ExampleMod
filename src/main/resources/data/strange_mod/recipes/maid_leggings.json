@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "WNW",
+    "W W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_leggings"
+    }
+  },
+  "result": {
+    "item": "strange_mod:maid_leggings",
+    "count": 1
+  }
+}

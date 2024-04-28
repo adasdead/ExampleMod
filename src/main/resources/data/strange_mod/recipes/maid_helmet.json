@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#i#",
+    "PNP"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_wool"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:pink_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_helmet"
+    }
+  },
+  "result": {
+    "item": "strange_mod:maid_helmet",
+    "count": 1
+  }
+}

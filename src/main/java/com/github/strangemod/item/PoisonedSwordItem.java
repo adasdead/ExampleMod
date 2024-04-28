@@ -15,7 +15,7 @@ public class PoisonedSwordItem extends SwordItem {
             .stacksTo(1).durability(3000);
 
     public PoisonedSwordItem() {
-        super(Tiers.NETHERITE, 2, 3.0f, PROPERTIES);
+        super(Tiers.NETHERITE, 2, 0.3f, PROPERTIES);
     }
 
     @Override

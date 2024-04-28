@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "BNB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "N": {
+      "item": "minecraft:netherite_boots"
+    }
+  },
+  "result": {
+    "item": "strange_mod:maid_boots",
+    "count": 1
+  }
+}

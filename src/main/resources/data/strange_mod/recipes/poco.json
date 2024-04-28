@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["ABA","ACA","ADA"],"key":{"A":{"item":"minecraft:diamond"},"B":{"item":"minecraft:ender_eye"},"C":{"item":"minecraft:tinted_glass"},"D":{"item":"minecraft:tnt"}},"result":{"item":"strange_mod:poco","count":1}}
